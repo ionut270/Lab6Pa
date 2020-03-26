@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7103eaf2-e602-421c-ada3-b3220c196b23" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1ZfnHXmV2neX7MNvurcHTXZKdGj" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.eoancea" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="MainFrame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.eoancea.MainFrame" />
+      <module name="UI" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.eoancea.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MainFrame" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7103eaf2-e602-421c-ada3-b3220c196b23" name="Default Changelist" comment="" />
+      <created>1585238928310</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585238928310</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1506" y="114" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585241565467">
+      <screen x="-1920" y="-126" width="1920" height="1170" />
+    </state>
+    <state x="-1506" y="114" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1050/-1920.-126.1920.1170@-1920.-126.1920.1170" timestamp="1585241565467" />
+    <state x="-1155" y="169" key="#com.intellij.ide.util.MemberChooser" timestamp="1585239218358">
+      <screen x="-1920" y="-126" width="1920" height="1170" />
+    </state>
+    <state x="-1155" y="169" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1050/-1920.-126.1920.1170@-1920.-126.1920.1170" timestamp="1585239218358" />
+    <state width="1877" height="325" key="GridCell.Tab.0.bottom" timestamp="1585242025757">
+      <screen x="-1920" y="-126" width="1920" height="1170" />
+    </state>
+    <state width="1877" height="325" key="GridCell.Tab.0.bottom/0.0.1920.1050/-1920.-126.1920.1170@-1920.-126.1920.1170" timestamp="1585242025757" />
+    <state width="1877" height="325" key="GridCell.Tab.0.center" timestamp="1585242025757">
+      <screen x="-1920" y="-126" width="1920" height="1170" />
+    </state>
+    <state width="1877" height="325" key="GridCell.Tab.0.center/0.0.1920.1050/-1920.-126.1920.1170@-1920.-126.1920.1170" timestamp="1585242025757" />
+    <state width="1877" height="325" key="GridCell.Tab.0.left" timestamp="1585242025757">
+      <screen x="-1920" y="-126" width="1920" height="1170" />
+    </state>
+    <state width="1877" height="325" key="GridCell.Tab.0.left/0.0.1920.1050/-1920.-126.1920.1170@-1920.-126.1920.1170" timestamp="1585242025757" />
+    <state width="1877" height="325" key="GridCell.Tab.0.right" timestamp="1585242025757">
+      <screen x="-1920" y="-126" width="1920" height="1170" />
+    </state>
+    <state width="1877" height="325" key="GridCell.Tab.0.right/0.0.1920.1050/-1920.-126.1920.1170@-1920.-126.1920.1170" timestamp="1585242025757" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/eoancea/MainFrame.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
